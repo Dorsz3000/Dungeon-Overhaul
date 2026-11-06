@@ -1,0 +1,13 @@
+
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="dungeon_overhaul"
+version="0.1.0"
+displayName="Dungeon Overhaul"
+authors="Dorsz3000"
+description='''
+A challenging dungeon adventure mod for Minecraft 1.21.1.
+'''
