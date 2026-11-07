@@ -1,0 +1,24 @@
+{
+  "block.dungeon_overhaul.dungeon_stone": "Kamień Lochów",
+  "block.dungeon_overhaul.cracked_dungeon_stone": "Popękany Kamień Lochów",
+  "block.dungeon_overhaul.reinforced_dungeon_bricks": "Wzmocnione Cegły Lochów",
+  "block.dungeon_overhaul.dungeon_pillar": "Filar Lochów",
+  "block.dungeon_overhaul.dungeon_floor": "Posadzka Lochów",
+  "block.dungeon_overhaul.ancient_lock": "Starożytny Zamek",
+  "block.dungeon_overhaul.dungeon_spawner": "Spawner Lochów",
+  "block.dungeon_overhaul.trap_plate": "Płyta Pułapkowa",
+  "block.dungeon_overhaul.dungeon_cache": "Skrytka Lochów",
+
+  "item.dungeon_overhaul.dungeon_shard": "Odłamek Lochów",
+  "item.dungeon_overhaul.ancient_fragment": "Starożytny Fragment",
+  "item.dungeon_overhaul.cursed_crystal": "Przeklęty Kryształ",
+  "item.dungeon_overhaul.guardian_core": "Rdzeń Strażnika",
+  "item.dungeon_overhaul.dungeon_essence": "Esencja Lochów",
+  "item.dungeon_overhaul.ancient_ingot": "Starożytna Sztabka",
+  "item.dungeon_overhaul.crypt_key": "Klucz Krypty",
+  "item.dungeon_overhaul.ancient_key": "Starożytny Klucz",
+  "item.dungeon_overhaul.dungeon_compass": "Kompas Lochów",
+  "item.dungeon_overhaul.dungeon_token": "Żeton Lochów",
+  "item.dungeon_overhaul.healing_artifact": "Artefakt Leczenia",
+  "item.dungeon_overhaul.guardians_heart": "Serce Strażnika"
+}
