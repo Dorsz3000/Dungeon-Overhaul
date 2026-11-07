@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dungeon_overhaul:block/ancient_lock"
+    }
+  }
+}
