@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "ADA",
+    " A "
+  ],
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "D": "minecraft:deepslate"
+  },
+  "result": {
+    "id": "dungeon_overhaul:dungeon_shard",
+    "count": 4
+  }
+}
