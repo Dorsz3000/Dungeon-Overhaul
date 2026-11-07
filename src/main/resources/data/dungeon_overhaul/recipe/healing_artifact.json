@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " G ",
+    "PEP",
+    " G "
+  ],
+  "key": {
+    "G": {"item": "minecraft:gold_ingot"},
+    "P": {"item": "minecraft:ghast_tear"},
+    "E": {"item": "dungeon_overhaul:dungeon_essence"}
+  },
+  "result": {
+    "id": "dungeon_overhaul:healing_artifact",
+    "count": 1
+  }
+}
