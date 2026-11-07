@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " S ",
+    "SES",
+    " S "
+  ],
+  "key": {
+    "S": {"item": "dungeon_overhaul:dungeon_shard"},
+    "E": {"item": "minecraft:compass"}
+  },
+  "result": {
+    "id": "dungeon_overhaul:dungeon_compass",
+    "count": 1
+  }
+}
