@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    " I ",
+    " I "
+  ],
+  "key": {
+    "A": {"item": "dungeon_overhaul:ancient_ingot"},
+    "I": {"item": "minecraft:iron_ingot"}
+  },
+  "result": {
+    "id": "dungeon_overhaul:ancient_key",
+    "count": 1
+  }
+}
