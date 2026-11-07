@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "SSS",
+    "SCS",
+    "SSS"
+  ],
+  "key": {
+    "S": {"item": "dungeon_overhaul:dungeon_stone"},
+    "C": {"item": "minecraft:chest"}
+  },
+  "result": {
+    "id": "dungeon_overhaul:dungeon_cache",
+    "count": 1
+  }
+}
