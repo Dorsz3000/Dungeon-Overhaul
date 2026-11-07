@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " S ",
+    "SAS",
+    " S "
+  ],
+  "key": {
+    "S": "dungeon_overhaul:dungeon_shard",
+    "A": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "dungeon_overhaul:dungeon_token",
+    "count": 2
+  }
+}
