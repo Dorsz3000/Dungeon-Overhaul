@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " S ",
+    "SCS",
+    " S "
+  ],
+  "key": {
+    "S": "dungeon_overhaul:dungeon_shard",
+    "C": "dungeon_overhaul:cursed_crystal"
+  },
+  "result": {
+    "id": "dungeon_overhaul:dungeon_essence",
+    "count": 1
+  }
+}
