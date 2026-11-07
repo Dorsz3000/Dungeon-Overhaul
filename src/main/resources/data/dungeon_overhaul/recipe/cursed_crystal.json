@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " B ",
+    "AEA",
+    " B "
+  ],
+  "key": {
+    "B": "minecraft:blaze_powder",
+    "A": "minecraft:amethyst_shard",
+    "E": "minecraft:ender_pearl"
+  },
+  "result": {
+    "id": "dungeon_overhaul:cursed_crystal",
+    "count": 1
+  }
+}
