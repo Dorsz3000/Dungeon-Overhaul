@@ -1,0 +1,24 @@
+{
+  "block.dungeon_overhaul.dungeon_stone": "Dungeon Stone",
+  "block.dungeon_overhaul.cracked_dungeon_stone": "Cracked Dungeon Stone",
+  "block.dungeon_overhaul.reinforced_dungeon_bricks": "Reinforced Dungeon Bricks",
+  "block.dungeon_overhaul.dungeon_pillar": "Dungeon Pillar",
+  "block.dungeon_overhaul.dungeon_floor": "Dungeon Floor",
+  "block.dungeon_overhaul.ancient_lock": "Ancient Lock",
+  "block.dungeon_overhaul.dungeon_spawner": "Dungeon Spawner",
+  "block.dungeon_overhaul.trap_plate": "Trap Plate",
+  "block.dungeon_overhaul.dungeon_cache": "Dungeon Cache",
+
+  "item.dungeon_overhaul.dungeon_shard": "Dungeon Shard",
+  "item.dungeon_overhaul.ancient_fragment": "Ancient Fragment",
+  "item.dungeon_overhaul.cursed_crystal": "Cursed Crystal",
+  "item.dungeon_overhaul.guardian_core": "Guardian Core",
+  "item.dungeon_overhaul.dungeon_essence": "Dungeon Essence",
+  "item.dungeon_overhaul.ancient_ingot": "Ancient Ingot",
+  "item.dungeon_overhaul.crypt_key": "Crypt Key",
+  "item.dungeon_overhaul.ancient_key": "Ancient Key",
+  "item.dungeon_overhaul.dungeon_compass": "Dungeon Compass",
+  "item.dungeon_overhaul.dungeon_token": "Dungeon Token",
+  "item.dungeon_overhaul.healing_artifact": "Healing Artifact",
+  "item.dungeon_overhaul.guardians_heart": "Guardian's Heart"
+}
